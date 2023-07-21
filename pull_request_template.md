@@ -4,7 +4,7 @@ Thank you for making a pull request to `awesome-machine-learning` in Software Un
 
 Please check that the paper you are submitting is fully reproducible. If it is not, please add some text to indicate why the criterion doesn't seem important in this case.
 
-- [ ] **Open access** (available, licensed; non-negotiable)
+- [ ] **Open access** (available, licensed; non-negotiable)
 - [ ] **Open code** (available, licensed)
 - [ ] **Open data** (available, licensed)
 
@@ -12,14 +12,14 @@ Please check that the paper you are submitting is fully reproducible. If it is n
 
 The following criteria are judgment calls, but a reasonably attentive reading of the paper (more than 5 minutes, but less than an hour) should be enough to check the following:
 
-- [ ] **Task** seems reasonable and is clearly expressed
-- [ ] **Dataset** seems basically sound and appropriate to the task
-- [ ] **No obvious signs of leakage**, such as improper splitting
-- [ ] **Data pipeline** does sensible things about imputation and scaling
-- [ ] **Algorithm choice** seems reasonable and appropriate
-- [ ] **Cross validation** strategy seems reasonable
-- [ ] **Hyperparameter tuning** steps are explained
-- [ ] **Performance metrics** are explicit and seem reasonable
+- [ ] **Task** seems reasonable and is clearly expressed
+- [ ] **Dataset** seems basically sound and appropriate to the task
+- [ ] **No obvious signs of leakage**, such as improper splitting
+- [ ] **Data pipeline** does sensible things about imputation and scaling
+- [ ] **Algorithm choice** seems reasonable and appropriate
+- [ ] **Cross validation** strategy seems reasonable
+- [ ] **Hyperparameter tuning** steps are explained
+- [ ] **Performance metrics** are explicit and seem reasonable
 
 ## Code quality
 
